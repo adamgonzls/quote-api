@@ -1,7 +1,4 @@
 {
-  "devDependencies": {
-    "json-server": "^0.17.0"
-  },
   "name": "quote-api",
   "description": "Requests to API will return quotes.",
   "version": "1.0.0",
@@ -90,6 +87,7 @@
     "jju": "^1.4.0",
     "json-buffer": "^3.0.0",
     "json-parse-helpfulerror": "^1.0.3",
+    "json-server": "^0.17.0",
     "keyv": "^3.1.0",
     "latest-version": "^5.1.0",
     "lodash": "^4.17.21",

@@ -8,19 +8,14 @@ Requests to API will return quotes.
 
 **Technologies Used:**
 
-- React
+- Heroku
 - JavaScript (ES6)
-- JSON API
-- localStorage
-- CSS
+- JSON
 - npm
-- Vite
 
-Colors and combinations returned via JSON API [Color Picker API](https://www.thecolorapi.com/)
+<!-- Colors and combinations returned via JSON API [Color Picker API](https://www.thecolorapi.com/) -->
 
-[Figma design file](<https://www.figma.com/file/89fWdvbs8FBNpNAB3U0XBc/Color-Picker-(Copy)?node-id=0%3A1>)
-
-Deployed via [netlify](https://www.netlify.com/)
+Deployed via [heroku](https://www.heroku.com/)
 
 ## Available Scripts
 
