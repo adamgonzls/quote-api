@@ -2,7 +2,7 @@
 
 Requests to API will return quotes.
 
-<!-- Check it out: [Color Picker](https://color-scheme-picker.netlify.app/) -->
+Check it the endpoint: [/quotes](https://adams-quote-api-v1.herokuapp.com/quotes)
 
 ## About this Project
 
@@ -22,9 +22,6 @@ Deployed via [heroku](https://www.heroku.com/)
 ```
 # install dependencies
 npm install
-
-# development environment
-npm run dev
 ```
 
 ## Deployment
@@ -32,12 +29,6 @@ npm run dev
 To deploy:
 
 ```
-# build the app
-npm run build
-
-# deploy to a unique preview URL
-ntl deploy
-
-# deploy the site into production
-ntl deploy --prod
+# push changes to heroku
+git push heroku main
 ```
