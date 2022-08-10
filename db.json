@@ -52,7 +52,7 @@
       "id": 9,
       "quote": "The unfed mind devours itself.",
       "author": "Gore Vidal",
-      "profession": "American Writer"
+      "profession": "American writer"
     },
     {
       "id": 10,
@@ -196,7 +196,7 @@
       "id": 33,
       "quote": "The future belongs to those who believe in the beauty of their dreams.",
       "author": "Eleanor Roosevelt",
-      "profession": "former U.S. first lady"
+      "profession": "Former U.S. first lady"
     },
     {
       "id": 34,
@@ -376,7 +376,7 @@
       "id": 63,
       "quote": "Your present circumstances don't determine where you can go; they merely determine where you start.",
       "author": "Nido Qubein",
-      "profession": "businessman and motivational speaker"
+      "profession": "Businessman and motivational speaker"
     },
     {
       "id": 64,
@@ -388,19 +388,19 @@
       "id": 65,
       "quote": "Have patience. All things are difficult before they become easy.",
       "author": "Saadi",
-      "profession": "poet"
+      "profession": "Poet"
     },
     {
       "id": 66,
       "quote": "Perfection is not attainable, but if we chase perfection, we can catch excellence.",
       "author": "Vince Lombardi",
-      "profession": "football coach"
+      "profession": "Coach"
     },
     {
       "id": 67,
       "quote": "Is he alone who has courage on his right hand and faith on his left hand?",
       "author": "Charles Lindbergh",
-      "profession": "aviator"
+      "profession": "Aviator"
     },
     {
       "id": 68,
@@ -412,31 +412,31 @@
       "id": 69,
       "quote": "Growth demands a temporary surrender of security.",
       "author": "Gail Sheehy",
-      "profession": ""
+      "profession": "Author"
     },
     {
       "id": 70,
       "quote": "Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.",
       "author": "Helen Keller",
-      "profession": "author and political activist"
+      "profession": "Author and political activist"
     },
     {
       "id": 71,
       "quote": "Don't expect to build up the weak by pulling down the strong.",
       "author": "Calvin Coolidge",
-      "profession": ""
+      "profession": "30th US President"
     },
     {
       "id": 72,
       "quote": "Only he who attempts the absurd is capable of achieving the impossible.",
       "author": "Miguel de Unamuno",
-      "profession": "writer and philosopher"
+      "profession": "Writer and philosopher"
     },
     {
       "id": 73,
       "quote": "Goals allow you to control the direction of change in your favor.",
       "author": "Brian Tracy",
-      "profession": "entrepreneur"
+      "profession": "Entrepreneur"
     },
     {
       "id": 74,
@@ -454,25 +454,25 @@
       "id": 76,
       "quote": "Who is the happier man, he who has braved the storm of life and lived or he who has stayed securely on shore and merely existed?",
       "author": "Hunter S. Thompson",
-      "profession": "journalist and writer"
+      "profession": "Journalist and writer"
     },
     {
       "id": 77,
       "quote": "Practice is the hardest part of learning, and training is the essence of transformation.",
       "author": "Ann Voskamp",
-      "profession": ""
+      "profession": "Author"
     },
     {
       "id": 78,
       "quote": "Obstacles can't stop you. Problems can't stop you. Most important of all, other people can't stop you. Only you can stop you.",
       "author": "Jeffrey Gitomer",
-      "profession": ""
+      "profession": "Author"
     },
     {
       "id": 79,
       "quote": "Failure is the opportunity to begin again more intelligently.",
       "author": "Henry Ford",
-      "profession": ""
+      "profession": "Industrialist"
     },
     {
       "id": 80,
@@ -484,7 +484,7 @@
       "id": 81,
       "quote": "Failure should be our teacher, not our undertaker. Failure is delay, not defeat. It is a temporary detour, not a dead-end street. Failure is something we can avoid only by saying nothing, doing nothing, and being nothing.",
       "author": "Denis Waitley",
-      "profession": ""
+      "profession": "Motivational speaker"
     },
     {
       "id": 82,
@@ -496,13 +496,13 @@
       "id": 83,
       "quote": "Your most powerful weapon against limiting thoughts is your willingness to clarify and envision what you truly want for your life.",
       "author": "David McNally",
-      "profession": ""
+      "profession": "Author"
     },
     {
       "id": 84,
       "quote": "Having just the vision's no solution; everything depends on execution.",
       "author": "Stephen Sondheim",
-      "profession": "Composer and Lyricist"
+      "profession": "Composer and lyricist"
     },
     {
       "id": 85,
@@ -532,19 +532,19 @@
       "id": 89,
       "quote": "Unless you try to do something beyond what you have already mastered, you will never grow.",
       "author": "Ronald Osborn",
-      "profession": "Teacher and Writer"
+      "profession": "Teacher and writer"
     },
     {
       "id": 90,
       "quote": "Mistakes are the growing pains of wisdom.",
       "author": "William George Jordan",
-      "profession": "Writer and Editor"
+      "profession": "Writer and editor"
     },
     {
       "id": 91,
       "quote": "The only way you are going to have success is to have lots of failures first.",
       "author": "Sergey Brin",
-      "profession": "Computer Scientist and Entrepreneur"
+      "profession": "Computer Scientist and entrepreneur"
     },
     {
       "id": 92,
@@ -568,19 +568,19 @@
       "id": 95,
       "quote": "The greatest of faults, I should say, is to be conscious of none.",
       "author": "Thomas Carlyle",
-      "profession": "Historian and Philosopher"
+      "profession": "Historian and philosopher"
     },
     {
       "id": 96,
       "quote": "I was taught that the way of progress is neither swift nor easy.",
       "author": "Marie Curie",
-      "profession": "Physicist and Chemist"
+      "profession": "Physicist and chemist"
     },
     {
       "id": 97,
       "quote": "The greatest mistake you can make in life is to continually be afraid you will make one.",
       "author": "Elbert Hubbard",
-      "profession": "Writer and Artist"
+      "profession": "Writer and artist"
     },
     {
       "id": 98,
@@ -592,13 +592,7 @@
       "id": 99,
       "quote": "Inspiration and growth only come from adversity and from challenge — from stepping away from what's comfortable and familiar and stepping out into the unknown.",
       "author": "Ben Saunders",
-      "profession": ""
-    },
-    {
-      "id": 100,
-      "quote": "Growth demands a temporary surrender of security.",
-      "author": "Gail Sheehy",
-      "profession": "Passages"
+      "profession": "Author"
     },
     {
       "id": 101,
@@ -610,13 +604,13 @@
       "id": 102,
       "quote": "Character, not circumstances, makes the man.",
       "author": "Booker T. Washington",
-      "profession": "Educator, Writer and Orator"
+      "profession": "Educator, writer and orator"
     },
     {
       "id": 103,
       "quote": "Any fool can criticize, condemn and complain -- and most fools do. But it takes character and self-control to be understanding and forgiving.",
       "author": "Dale Carnegie",
-      "profession": "Writer, Lecturer and Leadership Consultant"
+      "profession": "Writer, lecturer and leadership consultant"
     },
     {
       "id": 104,
@@ -634,7 +628,7 @@
       "id": 106,
       "quote": "You may be disappointed if you fail, but you are doomed if you don't try.",
       "author": "Beverly Sills",
-      "profession": ""
+      "profession": "American operatic soprano"
     },
     {
       "id": 107,
@@ -652,13 +646,13 @@
       "id": 109,
       "quote": "When you get into a tight place, and everything goes against you till it seems as if you couldn't hold on a minute longer, never give up then, for that's just the place and time that the tide'll turn.",
       "author": "Harriet Beecher Stowe",
-      "profession": "Abolitionist and Writer"
+      "profession": "Abolitionist and writer"
     },
     {
       "id": 110,
       "quote": "There is no failure except in no longer trying.",
       "author": "Elbert Hubbard",
-      "profession": "Writer, Publisher and Artist"
+      "profession": "Writer, publisher and artist"
     },
     {
       "id": 111,
@@ -682,31 +676,31 @@
       "id": 114,
       "quote": "The important thing is this: to be able at any moment to sacrifice what we are for what we could become.",
       "author": "Charles Du Bos",
-      "profession": "Writer and Critic"
+      "profession": "Writer and critic"
     },
     {
       "id": 115,
       "quote": "You don't learn to walk by following rules, you learn by doing and by falling over.",
       "author": "Richard Branson",
-      "profession": "Entrepreneur, Investor and Philanthropist"
+      "profession": "Entrepreneur, investor and philanthropist"
     },
     {
       "id": 116,
       "quote": "Destiny is not a matter of chance; it is a matter of choice. It is not a thing to be waited for; it is a thing to be achieved.",
       "author": "William Jennings Bryan",
-      "profession": "Political Leader and Orator"
+      "profession": "Political leader and orator"
     },
     {
       "id": 117,
       "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
       "author": "Nelson Mandela",
-      "profession": "Activist and Political Leader"
+      "profession": "Activist and political leader"
     },
     {
       "id": 118,
       "quote": "The Lord made us all out of iron. Then he turns up the heat to forge some of us into steel.",
       "author": "Marie Osmond",
-      "profession": "Singer and Actress"
+      "profession": "Singer and actress"
     },
     {
       "id": 119,
