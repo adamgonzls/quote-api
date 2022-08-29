@@ -707,6 +707,18 @@
       "quote": "Restlessness and discontent are the first necessities of progress.",
       "author": "Thomas Edison",
       "profession": "American inventor"
+    },
+    {
+      "id": 120,
+      "quote": "It is failure that guides evolution; perfection provides no incentive for improvement, and nothing is perfect.",
+      "author": "Colson Whitehead",
+      "profession": "American novelist"
+    },
+    {
+      "id": 121,
+      "quote": "Our doubts are traitors, And make us lose the good we oft might win, By fearing to attempt",
+      "author": "William Shakespeare",
+      "profession": "English playwright"
     }
   ]
 }
